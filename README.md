@@ -1,1 +1,3 @@
 # Legendclient-Repo
+
+Legendclient resources
